@@ -1,0 +1,25 @@
+.measure-wide {   max-width: 64em; }
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+/* Clear floats after image containers */
+/* .imgs-row::after { */
+/*   content: ""; */
+/*   clear: both; */
+/*   display: table; */
+/* } */
+
+.imgs-row img {
+  width: 200pt;
+}
+
+.interests {
+  font-size: 11pt;
+}
+
+.padded {
+  margin-bottom: 3cm;
+}
