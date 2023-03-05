@@ -1,0 +1,11 @@
+.imgs-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.imgs-row img {
+    /* margin-top: 8px; */
+    /* vertical-align: middle; */
+    /* border-radius: 2px; */
+    /* height: 200px; */
+    width: 200x;
+}
