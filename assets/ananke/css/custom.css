@@ -23,30 +23,33 @@
   font-size: 11.5pt;
 }
 
-/* .padded { */
-/*   margin-bottom: 1cm; */
-/* } */
-/* .img-container { */
-/*   float: left; */
-/*   width: 33.33%; */
-/*   padding: 10px; */
-/* } */
-
-/* /1* Clear floats after image containers *1/ */
-/* /1* .imgs-row::after { *1/ */
-/* /1*   content: ""; *1/ */
-/* /1*   clear: both; *1/ */
-/* /1*   display: table; *1/ */
-/* /1* } *1/ */
-
-/* .imgs-row img { */
-/*   width: 200pt; */
-/* } */
-
-/* .interests { */
-/*   font-size: 11pt; */
-/* } */
-
-/* .padded { */
-/*   margin-bottom: 3cm; */
-/* } */
+/* Settings for mobile */
+@media (max-width : 450px) {
+    /* .visibledevice {display:block;} */
+    /* .visibledesktop {display:none;} */
+    .img-row {
+        display: block;
+        flex-wrap: nowrap;
+        /* text-align: center; */
+        /* align-items: center; */
+        /* justify-content: center; */
+        /* width: 100%; */
+    }
+    .img-container {
+        /* width: 200pt; */
+        width: 100%;
+        align-items: center;
+        text-align: center;
+    }
+    .img-container img {
+        width: 200pt;
+    }
+    .interests {
+        width: 200pt;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
