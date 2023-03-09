@@ -1,5 +1,5 @@
 title = "Penn Theory Group"
-baseURL = "https://penn-cs-theory.github.io"
+baseURL = "https://theory.cis.upenn.edu"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
