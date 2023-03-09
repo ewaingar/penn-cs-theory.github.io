@@ -1,5 +1,5 @@
 ---
-title: Theory Seminar Schduele
+title: Theory Seminar Schedule
 featured_image: '/images/snow.jpg'
 description:
 type: page
@@ -7,7 +7,7 @@ menu: main
 
 ---
 
-Below is a *tenative* list of speakers for Spring 2023, and we will announce all talks on the theory-group listserv.
+Below is a *tentative* list of speakers for Spring 2023, and we will announce all talks on the theory-group listserv.
 <!-- In markdown, 2 spaces at end of line is for newline, thus the trailing whitespace -->
 1/27: [Erik Waingarten](https://sites.google.com/site/erikwaing/home)  
 2/10: [Yiping Ma](https://www.seas.upenn.edu/~yipingma/)  
