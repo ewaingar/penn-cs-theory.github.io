@@ -1,6 +1,6 @@
 ---
 title: "Theory Seminar: Sepehr Assadi"
-date: 2023-02-28
+date: 2023-03-03
 ---
 
 We are excited to announce that this week's speaker is Sepehr Assadi.  The talk will take place on Friday, 3/3 at 1pm in Levine 307.

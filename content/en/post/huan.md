@@ -1,9 +1,9 @@
 ---
 title: "Theory Seminar: Huan Li"
-date: 2023-03-07
+date: 2023-03-10
 ---
 
-Our speaker for this week's theory seminar is Huan Li, a PhD student here at Penn. The talk will take place in Levine 307 on Friday at 1pm.
+Our speaker for this week's theory seminar is Huan Li, a PhD student here at Penn. The talk will take place in Levine 307 on Friday 3/10 at 1pm.
 
 **Title**: On Weighted Graph Sparsification by Linear Sketching
 
