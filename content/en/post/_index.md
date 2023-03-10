@@ -3,3 +3,19 @@ title: "Events"
 date: 2017-03-02T12:00:00-05:00
 featured_image: '/images/summer.jpg'
 ---
+<!-- Below is a *tentative* list of speakers for Spring 2023, and we will announce all talks on the theory-group listserv. -->
+<!-- <!-1- In markdown, 2 spaces at end of line is for newline, thus the trailing whitespace -1-> -->
+<!-- 1/27: [Erik Waingarten](https://sites.google.com/site/erikwaing/home) -->  
+<!-- 2/10: [Yiping Ma](https://www.seas.upenn.edu/~yipingma/) -->  
+<!-- 2/17: [Vasilis Gkatzelis](https://www.cs.drexel.edu/~gkatz/) -->  
+<!-- 2/24: [Yahav Bechavod](https://yahavbe.github.io/) -->  
+<!-- 3/3: [Sepehr Assadi](https://sepehr.assadi.info/) -->  
+<!-- 3/10: [Huan Li](https://huanli.me/) -->  
+<!-- 3/24: [Zihan Tan](https://sites.google.com/view/zihantan) -->  
+<!-- 3/31: [Emily Diana](https://www.emilyruthdiana.com/) -->  
+<!-- 4/7: [Rajesh Jayaram](https://rajeshjayaram.com/) -->  
+<!-- 4/14: [Xi Chen](https://www.cs.columbia.edu/~xichen/Welcome.html) -->  
+<!-- 4/21: [Surbhi Goel](https://www.surbhigoel.com/) -->  
+<!-- 4/28: [Sergei Vassilvitskii](https://theory.stanford.edu/~sergei/) -->  
+
+<!-- Also, titles and abstracts from recent talks: -->
