@@ -17,6 +17,7 @@ Below is a *tentative* list of speakers for Spring 2023, and we will announce al
 3/10: [Huan Li](https://huanli.me/)  
 3/16: [Kamesh Munagala](https://www.kameshmunagala.org/)  
 3/24: [Zihan Tan](https://sites.google.com/view/zihantan)  
+3/31: No Talk  
 4/7: [Rajesh Jayaram](https://rajeshjayaram.com/)  
 4/14: [Xi Chen](https://www.cs.columbia.edu/~xichen/Welcome.html)  
 4/21: [Surbhi Goel](https://www.surbhigoel.com/)  
